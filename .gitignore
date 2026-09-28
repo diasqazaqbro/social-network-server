@@ -1,0 +1,5 @@
+node_modules
+.DS_Store
+
+# SQLite база создаётся при первом запуске
+db.sqlite*

@@ -1,0 +1,13 @@
+{
+  "name": "social-network-server",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node --experimental-sqlite --watch index.js",
+    "start": "node --experimental-sqlite index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
